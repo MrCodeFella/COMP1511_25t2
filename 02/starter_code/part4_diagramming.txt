@@ -1,0 +1,16 @@
+print("how many days till assignemnt is due")
+days
+scanf(days)
+if (days > 10) {
+    print(are ypu up to date)
+     scanf(user_answer)
+     if (user_answer is yes) {
+        print(work on assignemnt)
+     } else {
+        print(catch up on labs and lectures)
+     }
+} else if (between 7 and 10 days) {
+
+} else {
+
+}
